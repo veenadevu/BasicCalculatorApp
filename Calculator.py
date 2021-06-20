@@ -1,6 +1,6 @@
 # Simple Calculator
 # Python 3.9
-# Topics: tkinder, grid geometry manager, evel, try/except, lambda
+# Topics: tkinder, grid geometry manager, eval, try/except, lambda
 
 import tkinter
 
